@@ -298,16 +298,16 @@
                         <div class="facilities mb-4">
                             <h6 class="mb-1">Facilities</h6>
                             <span class="badge rounded-pill bg-light text-dark  text-wrap ">
-                               <i class="bi bi-wifi me-2"></i> Wi-fi 
+                                <i class="bi bi-wifi me-2"></i> Wi-fi
                             </span>
                             <span class="badge rounded-pill bg-light text-dark  text-wrap">
-                            <i class="bi bi-tv me-2"></i> Television
+                                <i class="bi bi-tv me-2"></i> Television
                             </span>
                             <span class="badge rounded-pill bg-light text-dark  text-wrap">
-                            <i class="bi bi-fan me-2"></i>  AC
+                                <i class="bi bi-fan me-2"></i> AC
                             </span>
                             <span class="badge rounded-pill bg-light text-dark  text-wrap">
-                            <i class="bi bi-fire me-2"></i> Room Heater
+                                <i class="bi bi-fire me-2"></i> Room Heater
                             </span>
                         </div>
                         <div class="rating mb-4">
@@ -352,16 +352,16 @@
                         <div class="facilities mb-4">
                             <h6 class="mb-1">Facilities</h6>
                             <span class="badge rounded-pill bg-light text-dark  text-wrap ">
-                            <i class="bi bi-wifi me-2"></i> Wi-fi 
+                                <i class="bi bi-wifi me-2"></i> Wi-fi
                             </span>
                             <span class="badge rounded-pill bg-light text-dark  text-wrap">
-                            <i class="bi bi-tv me-2"></i> Television
+                                <i class="bi bi-tv me-2"></i> Television
                             </span>
                             <span class="badge rounded-pill bg-light text-dark  text-wrap">
-                            <i class="bi bi-fan me-2"></i>  AC
+                                <i class="bi bi-fan me-2"></i> AC
                             </span>
                             <span class="badge rounded-pill bg-light text-dark  text-wrap">
-                            <i class="bi bi-fire me-2"></i> Room Heater
+                                <i class="bi bi-fire me-2"></i> Room Heater
                             </span>
                         </div>
                         <div class="rating mb-4">
@@ -406,16 +406,16 @@
                         <div class="facilities mb-4">
                             <h6 class="mb-1">Facilities</h6>
                             <span class="badge rounded-pill bg-light text-dark  text-wrap ">
-                            <i class="bi bi-wifi me-2"></i> Wi-fi 
+                                <i class="bi bi-wifi me-2"></i> Wi-fi
                             </span>
                             <span class="badge rounded-pill bg-light text-dark  text-wrap">
-                            <i class="bi bi-tv me-2"></i> Television
+                                <i class="bi bi-tv me-2"></i> Television
                             </span>
                             <span class="badge rounded-pill bg-light text-dark  text-wrap">
-                            <i class="bi bi-fan me-2"></i>  AC
+                                <i class="bi bi-fan me-2"></i> AC
                             </span>
                             <span class="badge rounded-pill bg-light text-dark  text-wrap">
-                            <i class="bi bi-fire me-2"></i> Room Heater
+                                <i class="bi bi-fire me-2"></i> Room Heater
                             </span>
                         </div>
                         <div class="rating mb-4">
@@ -440,10 +440,10 @@
                 <a href="" class="btn btn-outline-dark rounded-0 fw-bold shadow-none">More Rooms >>></a>
             </div>
         </div>
+    </div>
+    <!--  -->
 
-   <!--  -->
-   
-        <!-- Our Facilities -->
+    <!-- Our Facilities -->
     <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">OUR FACILITIES</h2>
 
     <div class="container">
@@ -473,33 +473,237 @@
                 <h5 class="mt-3">Room Heater</h5>
             </div>
             <div class="col-lg-12 text-center mt-5">
-            <a href="" class="btn btn-outline-dark rounded-0 fw-bold shadow-none align-items-center"> More Facilities >>> </a>
+                <a href="" class="btn btn-outline-dark rounded-0 fw-bold shadow-none align-items-center"> More Facilities >>> </a>
             </div>
         </div>
     </div>
 
-        <!-- Testimonils -->
-        <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">TESTIMONILS</h2>
+    <!-- Testimonils -->
+    <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">TESTIMONILS</h2>
+    <div class="conatiner">
+        <div class="swiper swiper-testimonils">
+            <div class="swiper-wrapper mb-5">
+                <!--  -->
+                <div class="swiper-slide bg-white p-4 ">
+                    <div class="profile d-flex align-item-center mb-3">
+                        <img src="images/facilities/ac.svg" width="30px">
+                        <h6 class="m-0 ms-2">Random User 1</h6>
+                    </div>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Libero laboriosam ipsam, dolorum reiciendis delectus esse
+                        lat beatae quos? Harum a vel earum nobis?
+                    </p>
+                    <div class="rating">
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                    </div>
+                </div>
+                <!--  -->
+                <!--  -->
+                <div class="swiper-slide bg-white p-4 ">
+                    <div class="profile d-flex align-item-center mb-3">
+                        <img src="images/facilities/ac.svg" width="30px">
+                        <h6 class="m-0 ms-2">Random User 1</h6>
+                    </div>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Libero laboriosam ipsam, dolorum reiciendis delectus esse
+                        lat beatae quos? Harum a vel earum nobis?
+                    </p>
+                    <div class="rating">
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                    </div>
+                </div>
+                <!--  -->
+                <!--  -->
+                <div class="swiper-slide bg-white p-4 ">
+                    <div class="profile d-flex align-item-center mb-3">
+                        <img src="images/facilities/ac.svg" width="30px">
+                        <h6 class="m-0 ms-2">Random User 1</h6>
+                    </div>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Libero laboriosam ipsam, dolorum reiciendis delectus esse
+                        lat beatae quos? Harum a vel earum nobis?
+                    </p>
+                    <div class="rating">
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                        <i class="bi bi-star-fill text-warning"></i>
+                    </div>
+                </div>
+                <!--  -->
+                
+            </div>
+            <div class="swiper-pagination"></div>
+        </div>
+        <div class="col-lg-12 text-center mt-5">
+                <a href="" class="btn btn-outline-dark rounded-0 fw-bold shadow-none align-items-center">
+                     Know More >>> </a>
+            </div>
+    </div>
 
+    <!-- Reach Us -->
+    <h2 class="mt-5 pt-4 mb-4 text-center fw-bold h-font">REACH US</h2>
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-lg-8 col-md-8 p-4 mb-lg-0 mb-3 bg-white rounded">
+                <iframe class="w-100 rounded" height="380px" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31182.08906849306!2d76.61522447910156!3d12.331858000000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baf707cf622d0ad%3A0x81fc945c806b3a68!2sOYO%2010193%20Hotel%20MSR%20Comfort!5e0!3m2!1sen!2sin!4v1672899168663!5m2!1sen!2sin" loading="lazy"></iframe>
+            </div>
+            <div class="col-lg-4 col-md-4">
+                <!-- Call Us -->
+                <div class="bg-white p-4 rounded mb-3">
+                    <h5>Call Us</h5>
+                    <a href="tel: +919119515866" class="d-inline-block mb-2  text-decoration-none text-dark ">
+                        <i class="bi bi-telephone-fill"></i>+919119515866</a>
+                    <br>
+                    <a href="tel: +919119515866" class="d-inline-block mb-2  text-decoration-none text-dark ">
+                        <i class="bi bi-telephone-fill"></i>+919119515866</a>
 
-        <br><br><br>
-        <br><br><br>
+                </div>
+                <!-- follow us -->
+                <div class="bg-white p-4 rounded mb-4">
+                    <h5>Follow Us</h5>
+                    <!-- twitter -->
+                    <a href="#" class="d-inline-block mb-3 ">
+                        <span class="badge bg-light text-dark fs-6 p-2">
+                            <i class="bi bi-twitter me-1"></i>Twitter
+                        </span>
+                    </a>
+                    <br>
+                    <!--  -->
+                    <a href="#" class="d-inline-block mb-3 ">
+                        <span class="badge bg-light text-dark fs-6 p-2">
+                            <i class="bi bi-instagram me-1"></i>instagram
+                        </span>
+                    </a>
+                    <br>
+                    <!--  -->
+                    <a href="#" class="d-inline-block mb-3 ">
+                        <span class="badge bg-light text-dark fs-6 p-2">
+                            <i class="bi bi-facebook me-1"></i>Facebook
+                        </span>
+                    </a>
+                    <br>
+                    <!--  -->
+                    <a href="#" class="d-inline-block mb-3 ">
+                        <span class="badge bg-light text-dark fs-6 p-2">
+                            <i class="bi bi-snapchat me-1"></i>SnapChat
+                        </span>
+                    </a>
+                    <br>
+                </div>
+            </div>
+        </div>
+    </div>
 
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+    <!-- Footer -->
 
-        <!-- Initialize Swiper -->
-        <script>
-            var swiper = new Swiper(".mySwiper", {
-                spaceBetween: 30,
-                effect: "fade",
-                loop: true,
-                autoplay: {
-                    delay: 3500,
-                    disableOnInteraction: false
-                }
-            });
-        </script>
+    <div class="container-fluid bg-white mt-5">
+        <div class="row">
+            <div class="col-lg-4 p-4">
+                <h3 class="h-font fw-bold fs-3 mb-2">
+                    MSR HOTEL
+                </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                    Culpa error omnis eos aspernatur perspiciatis aut, dolor exercitationem 
+                    sapiente maxime architecto.
+                </p>
+            </div>
+            <div class="col-lg-4 p-4">
+                <h5 class="mb-3">Links</h5>
+                <a href="" class="d-inline-block mb-2 text-dark text-decoration-none">Home</a> <br>
+                <a href="" class="d-inline-block mb-2 text-dark text-decoration-none">Rooms</a><br>
+                <a href="" class="d-inline-block mb-2 text-dark text-decoration-none">Facilities</a><br>
+                <a href="" class="d-inline-block mb-2 text-dark text-decoration-none">Contact Us</a><br>
+                <a href="" class="d-inline-block mb-2 text-dark text-decoration-none">About Us</a><br>
+            </div>
+            <div class="col-lg-4 p-4">
+                    <h5 class="mb-3">Follow Us</h5>
+                    <a href="#" class="d-inline-block mb-2 text-dark text-decoration-none">
+                        <i class="bi bi-twitter me-1"></i>
+                        Twitter
+                    </a>
+                    <br>
+                    <a href="#" class="d-inline-block mb-2 text-dark text-decoration-none">
+                        <i class="bi bi-instagram me-1"></i>
+                        Instagram
+                    </a>
+                    <br>
+                    <a href="#" class="d-inline-block mb-2 text-dark text-decoration-none">
+                        <i class="bi bi-facebook me-1"></i>
+                        Facebook
+                    </a>
+                    <br>
+                    <a href="#" class="d-inline-block  text-dark text-decoration-none">
+                        <i class="bi bi-snapchat me-1"></i>
+                        SnapChat
+                    </a>
+            </div>
+        </div>
+    </div>
+
+    <h6 class="text-center bg-dark text-white p-3 m-0">Designed by MSR Foundation</h6>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+
+    <!-- Initialize Swiper -->
+    <script>
+        // Hotel Images
+        var swiper = new Swiper(".mySwiper", {
+            spaceBetween: 30,
+            effect: "fade",
+            loop: true,
+            autoplay: {
+                delay: 3500,
+                disableOnInteraction: false
+            }
+        });
+        // Testimonils
+        var swiper = new Swiper(".swiper-testimonils", {
+            effect: "coverflow",
+            grabCursor: true,
+            centeredSlides: true,
+            slidesPerView: "auto",
+            slidesPerView: "3",
+            loop: true,
+            coverflowEffect: {
+                rotate: 50,
+                stretch: 0,
+                depth: 100,
+                modifier: 1,
+                slideShadows: false,
+            },
+            pagination: {
+                el: ".swiper-pagination",
+            },
+            breakpoints: {
+                320: {
+                    slidesPerView: 1,
+                },
+                640: {
+                    slidesPerView: 1,
+                },
+                768: {
+                    slidesPerView: 2,
+                },
+                1024: {
+                    slidesPerView: 3,
+                },
+            }
+        });
+    </script>
 </body>
 
 </html>
