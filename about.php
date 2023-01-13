@@ -12,7 +12,7 @@
 
     <?php require('inc/links.php'); ?>
     <title>MSR Hotel-About</title>
-    
+
 </head>
 
 <body class="bg-light">
@@ -29,17 +29,31 @@
     </div>
 
     <div class="container">
-        <div class="row">
-            <div class="col-lg-6 col-md-5 mb-4">
+        <div class="row justify-content-between align-items-center">
+            <div class="col-lg-6 col-md-5 mb-4 order-md-1 order-lg-1 order-2">
                 <h3 class="mb-3">Lorem ipsum dolor sit </h3>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Omnis, laborum aliquam vitae doloremque porro doloribus.
                 </p>
             </div>
-        
-
+            <div class="col-lg-5 col-md-5 mb-4 order-md-2 order-lg-2 order-1">
+                <img src="images/about/about.jpg" class="w-100" />
+            </div>
         </div>
+    </div>
+
+    <div class="container mt-5">
+    <div class="row">
+        <div class="col-lg-3 col-md-6 mb-4 px-4">
+            <div class="bg-white rounde shadow p-4 border-top border-4 text-center">
+                <img src="images/about/hotel.svg" width="70px">
+                <h4 class="mt-3">100+ ROOMS</h4>
+            </div>
+        </div>
+
+
+    </div>
     </div>
 
     <?php require('inc/footer.php'); ?>
